@@ -97,5 +97,5 @@ In `Home.razor` (on screenshot):
 <!--- Include as many relevant details as possible about the environment you experienced the bug in -->
 
 * OS & Device: Windows 11 (latest)
-* Browser Google Chrome (latest)
+* Browser Google Chrome (latest), Yandex (latest), Microsoft Edge (latest)
 * .NET 9.0 (latest), Lib v4.11.6 (latest)
