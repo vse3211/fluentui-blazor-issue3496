@@ -1,7 +1,12 @@
 ﻿@page "/"
 
-<PageTitle>Home</PageTitle>
+<PageTitle>FluentUI Blazor Issue</PageTitle>
 
-<h1>Hello, world!</h1>
+<h1>Warning</h1>
 
-Welcome to your new Fluent Blazor app.
+Enable dark theme in system settings!
+
+<FluentMessageBar Title="Example MessageBar" Intent="@MessageIntent.Warning" AllowDismiss="false">
+    Some text in first line...........<br />
+    The second line with <a href="#">other link</a><br />
+</FluentMessageBar>

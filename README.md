@@ -1,6 +1,12 @@
 # fluentui-blazor-issue3496
 Repository for reproduce bug https://github.com/microsoft/fluentui-blazor/issues/3496
 
+## ./Example (contains bug)
+<p>Example with <code>-ai false</code></p>
+
+## ./ExampleWinerserv (no bug there)
+<p>Example with <code>-ai true</code></p>
+
 <!---
 Thanks for filing an issue 😄 ! Before you submit, please read the following:
 
