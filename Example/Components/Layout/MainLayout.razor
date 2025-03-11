@@ -7,6 +7,7 @@
     <FluentStack Class="main" Orientation="Orientation.Horizontal" Width="100%">
         <NavMenu />
         <FluentBodyContent Class="body-content">
+            <FluentMessageBarProvider />
             <div class="content">
                 @Body
             </div>
@@ -18,6 +19,7 @@
         <a href="https://learn.microsoft.com/en-us/aspnet/core/blazor" target="_blank">About Blazor</a>
     </FluentFooter>
 </FluentLayout>
+<FluentDesignTheme StorageName="theme" />
 
 <div id="blazor-error-ui" data-nosnippet>
     An unhandled error has occurred.
