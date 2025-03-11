@@ -19,7 +19,7 @@ MessageBox component in light mode but application in dark
 
 <!-- Please provide steps to reproduce the issue and/or a code repository, gist, code snippet or sample files -->
 
-Template generation settings: `dotnet new fluentblazor -o {project-name} -au Individual -ai false`<br/>
+Template generation settings: ```dotnet new fluentblazor -o {project-name} -au Individual -ai false```
 
 I add in `app.razor`:
 ```
