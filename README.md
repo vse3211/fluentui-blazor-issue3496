@@ -3,6 +3,7 @@ Repository for reproduce bug https://github.com/microsoft/fluentui-blazor/issues
 
 ## ./Example (contains bug)
 <p>Example with <code>-ai false</code></p>
+<p>Temporary solution: use full interactivity</p>
 
 ## ./ExampleWinerserv (no bug there)
 <p>Example with <code>-ai true</code></p>
