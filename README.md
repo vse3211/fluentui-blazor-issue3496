@@ -1,9 +1,9 @@
-# fluentui-blazor-issue3496
+# [SOLVED] fluentui-blazor-issue3496
 Repository for reproduce bug https://github.com/microsoft/fluentui-blazor/issues/3496
 
 ## ./Example (contains bug)
 <p>Example with <code>-ai false</code></p>
-<p>Temporary solution: use full interactivity</p>
+<p>Solution: use rendermode for component FluentDesignTheme</p>
 
 ## ./ExampleWinerserv (no bug there)
 <p>Example with <code>-ai true</code></p>
